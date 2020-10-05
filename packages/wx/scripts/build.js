@@ -18,6 +18,7 @@ async function runUpload() {
   }
   console.log("上传成功");
 }
-runUpload();
+
+module.exports = { runUpload }
 
 
