@@ -20,10 +20,12 @@
   },
   "homepage": "https://github.com/djMiniTeam/dj-mini-ci#readme",
   "dependencies": {
+    "alipay-dev": "^0.4.17",
     "chalk": "^4.1.0",
     "commander": "^6.1.0",
     "inquirer": "^7.3.3",
     "miniprogram-ci": "1.0.45",
-    "ora": "^5.1.0"
+    "ora": "^5.1.0",
+    "swan-toolkit": "^2.5.1"
   }
 }
